@@ -14,4 +14,5 @@ body{
 .cabecalho{
     background-color: rgb(119, 0, 0);
     text-align: center;
+    padding: 30px;
 }
