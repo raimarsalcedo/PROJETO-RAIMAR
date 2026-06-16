@@ -2,3 +2,7 @@ body{
     background-color: rgb(211, 204, 204);
     color: black;
 } 
+.cabecalho{
+    background-color: black;
+    text-align: center;
+}
