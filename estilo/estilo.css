@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&family=Eagle+Lake&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Eagle+Lake&display=swap');
 
 
 
@@ -9,7 +9,7 @@
 body{
     background-color: rgb(138, 54, 54);
     color: black;
-    font-family: "Castoro Titling", serif;
+    font-family: "Eagle Lake", serif;
 } 
 .cabecalho{
     background-color: rgb(119, 0, 0);
