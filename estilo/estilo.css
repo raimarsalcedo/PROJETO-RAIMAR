@@ -36,4 +36,5 @@ button{
     color: brown;
     padding: 32px ;
     border-radius: 20px ;
+    width: 150px;
 }
