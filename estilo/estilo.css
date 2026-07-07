@@ -31,3 +31,9 @@ article{
     display: flex;
     background-color: rgb(110, 19, 19);
 }
+button{
+    background-color: black;
+    color: brown;
+    padding: 32px ;
+    border-radius: 20px ;
+}
