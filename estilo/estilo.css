@@ -34,7 +34,7 @@ article{
 button{
     background-color: rgb(63, 8, 8);
     color: brown;
-    padding: 15px ;
+    padding: 10px ;
     border-radius: 5px ;
-    width: 90px;
+    width: 50px;
 }
